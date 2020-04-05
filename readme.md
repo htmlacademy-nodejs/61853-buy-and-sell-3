@@ -1,7 +1,7 @@
 # Учебный проект «Куплю. Продам» [![Build status][travis-image]][travis-url]
 
-* Студент: [Bohdan Hutsol](https://up.htmlacademy.ru/nodejs/3/user/61853).
-* Наставник: `Неизвестно`.
+- Студент: [Bohdan Hutsol](https://up.htmlacademy.ru/nodejs/3/user/61853).
+- Наставник: [Александр Кожуркин](https://htmlacademy.ru/profile/id1318941).
 
 ---
 
