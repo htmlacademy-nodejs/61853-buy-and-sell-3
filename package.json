@@ -7,7 +7,8 @@
     "start": "node ./src/service/service.js",
     "test": "npm run eslint",
     "eslint": "eslint --ext .js src/",
-    "server": "nodemon start --server 3000"
+    "server": "nodemon start --server 3000",
+    "start-front-server": "node ./src/express/index.js"
   },
   "repository": {
     "type": "git",
@@ -24,5 +25,8 @@
     "eslint": "6.8.0",
     "eslint-config-htmlacademy": "0.5.2",
     "nodemon": "2.0.3"
+  },
+  "dependencies": {
+    "express": "4.17.1"
   }
 }
